@@ -2,7 +2,7 @@ import requests
 import csv, json
 
 '''
-For internal use. Do not expose to public servers as this contains API keys that are not env variables.
+Do not publish public API key, use env variables.
 '''
 # Yelp API Key
 YELP_API_KEY = "YELP_API_KEY_HERE"
