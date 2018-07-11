@@ -15,6 +15,10 @@ First, check which version of Python (if any) you are running.  Open cmd, termin
 ```
 python --version
 ```
+Install cURL and PIP
+install cURL: https://stackoverflow.com/questions/9507353/how-do-i-install-set-up-and-use-curl-on-windows
+install PIP: https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip
+
 Make sure you are runing Pythgon 2.7 and then install dependencies:
 
 ```
